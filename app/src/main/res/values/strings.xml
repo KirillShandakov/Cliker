@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CakesCounter</string>
+    <string name="txt_cakes">пирожных</string>
+    <string name="btn_cakes">Съесть пирожное</string>
+</resources>
